@@ -1,0 +1,20 @@
+# view res/layout/landscape_graphic.xml #generated:107
+# view res/layout/landscape_graphic.xml #generated:39
+# view res/layout/landscape_graphic.xml #generated:72
+# view res/layout/portrait_graphic.xml #generated:107
+# view res/layout/portrait_graphic.xml #generated:39
+# view res/layout/portrait_graphic.xml #generated:72
+-keep class org.harleydroid.Gauge { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class org.harleydroid.HarleyDroidDashboard { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class org.harleydroid.HarleyDroidDiagnostics { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class org.harleydroid.HarleyDroidService { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class org.harleydroid.HarleyDroidSettings { <init>(...); }
+
